@@ -1,3 +1,7 @@
-const myString = 'Hello world!'
+const myString = "Hello world!";
 
-const newString = 'A new book.'
+const newString = "A new book.";
+
+const myFunction = () => {
+  console.log();
+};
